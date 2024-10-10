@@ -1,0 +1,9 @@
+.scrollbar::-webkit-scrollbar{
+  width:10px;
+}
+.scrollbar::-webkit-scrollbar{
+  @apply bg-red-700
+}
+.scrollbar::-webkit-scrollbar-thumb{
+  @apply bg-slate-500 rounded-full
+}
